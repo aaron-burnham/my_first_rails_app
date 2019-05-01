@@ -13,6 +13,9 @@
  *= require_tree .
  *= require_self
  */
+body {
+  background-color: blue;
+}
 .field {
   background-color: red;
 }
